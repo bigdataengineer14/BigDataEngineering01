@@ -7,7 +7,6 @@ object arrays3 {
     val firstNum = numbers(0)
     println(firstNum)  // Output: 5
     numbers(1)=200    //Arrays are mutable
-
     println(numbers.mkString(", "))
     println(numbers.mkString(", "))
 
