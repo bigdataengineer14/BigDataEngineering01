@@ -9,6 +9,7 @@ object arrays3 {
     numbers(1)=200    //Arrays are mutable
 
     println(numbers.mkString(", "))
+    println(numbers.mkString(", "))
 
      val names:Array[String] = Array("Riya", "Jiya", "Siya")
     println(names(1))
